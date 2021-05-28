@@ -1,0 +1,6 @@
+Selecting the board is not enough, unlike other boards.
+Selecting correct processor and voltage level is very important.
+FTDI connections are shown in circuit diagram.
+I am using a modified blink sketch to test the uploads.
+ON for 3 seconds and OFF for 1 second.
+Video shows that the upload was successful.
