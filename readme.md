@@ -10,9 +10,7 @@ The mini does not contain a USB port. We need an FTDI for programming it (or fla
 
 The pro mini did not come with the pins attached, I had to solder them as shown in the images below.
 
-<img src="./images/solder1.jpg" alt="drawing" width="200"/>
-<img src="./images/solder2.jpg" alt="drawing" width="76"/>
-<img src="./images/solder3.jpg" alt="drawing" width="100"/>
+<img src="./images/solder1.jpg" alt="drawing" width="200"/><img src="./images/solder2.jpg" alt="drawing" width="76"/><img src="./images/solder3.jpg" alt="drawing" width="100"/>
 
 ## Modules:
 
