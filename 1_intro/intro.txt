@@ -1,6 +1,8 @@
 Selecting the board is not enough, unlike other boards.
 Selecting correct processor and voltage level is very important.
 FTDI connections are shown in circuit diagram.
+My FTDI is at 5V default so I do not need to change anything.
+If I had a 3.3V mini, I should change my FTDI to 3.3V mode.
 I am using a modified blink sketch to test the uploads.
 ON for 3 seconds and OFF for 1 second.
 Video shows that the upload was successful.
