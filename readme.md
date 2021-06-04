@@ -27,4 +27,4 @@ The pro mini did not come with the pins attached, I had to solder them as shown 
 2. Drving two NEMA17 motors: (folder named nema17)
     * This module is for driving two NEMA17 motors (4.2 kg-cm) simultaneously with arduino pro mini.
     * The motors and the drivers are powered with a 11.1V Li-Po battery.
-    * <img src="./images/nemasetup.jpg" alt="drawing" width="180"/>
+    * <img src="./images/nemasetup.JPG" alt="drawing" width="180"/>
