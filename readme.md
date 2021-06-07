@@ -32,4 +32,5 @@ The pro mini did not come with the pins attached, I had to solder them as shown 
 4. Controlling motors with app: (folder named app+nema)
     * This is a test with my bt app, to control the motors with mobile.
     * App built in MIT app inventor and sends text commands over bluetooth.
+    * Results on youtube: [Click here](https://youtu.be/r7kXe7jQFgI)
     * <img src="./images/appnema1.jpg" width="200"/><img src="./images/appnema2.JPG" width="83"/>
