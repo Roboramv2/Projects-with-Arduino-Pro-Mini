@@ -24,7 +24,12 @@ The pro mini did not come with the pins attached, I had to solder them as shown 
     * A simple robot capable of walking, made using arduino pro mini, two 9v batteries and four sg90 servos.
     * <img src="./images/walking_initial.jpg" alt="drawing" width="180"/><img src="./images/walking_early.jpg" alt="drawing" width="180"/><img src="./images/walking_mid.jpg" alt="drawing" width="180"/>
   
-2. Drving two NEMA17 motors: (folder named nema17)
+3. Drving two NEMA17 motors: (folder named nema17)
     * This module is for driving two NEMA17 motors (4.2 kg-cm) simultaneously with arduino pro mini.
     * The motors and the drivers are powered with a 11.1V Li-Po battery.
-    * <img src="./images/nemasetup.JPG" alt="drawing" width="180"/>
+    * <img src="./images/nemasetup.JPG" width="180"/>
+
+4. Controlling motors with app: (folder named app+nema)
+    * This is a test with my bt app, to control the motors with mobile.
+    * App built in MIT app inventor and sends text commands over bluetooth.
+    * <img src="./images/appnema1.jpg" width="200"/><img src="./images/appnema2.JPG" width="83"/>
