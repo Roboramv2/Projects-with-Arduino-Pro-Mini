@@ -30,7 +30,8 @@ The pro mini did not come with the pins attached, I had to solder them as shown 
     * <img src="./images/nemasetup.JPG" width="180"/>
 
 4. Testdriving a mobile platform: (folder named testdrive)
-    * This module documents the mobile platform I built to test out my bluetooth app.
+    * This module documents the mobile platform I built to test out my [bluetooth app](https://github.com/Roboramv2/android-apps-mit).
     * Platform is made of foamboard and uses lipo as well as alkaline batteries.
     * Direction and speed control is achieved through bluetooth app.
+    * Results documented in [youtube](https://www.youtube.com/watch?v=T9kciqtk5Ig).
     * <img src="./images/appnema1.jpg" width="200"/><img src="./images/appnema2.JPG" width="83"/><img src="./images/testdrive1.jpg" width="200"/><img src="./images/testdrive2.jpg" width="150"/>
