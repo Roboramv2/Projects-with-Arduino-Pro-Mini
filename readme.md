@@ -29,8 +29,8 @@ The pro mini did not come with the pins attached, I had to solder them as shown 
     * The motors and the drivers are powered with a 11.1V Li-Po battery.
     * <img src="./images/nemasetup.JPG" width="180"/>
 
-4. Controlling motors with app: (folder named app+nema)
-    * This is a test with my bt app, to control the motors with mobile.
-    * App built in MIT app inventor and sends text commands over bluetooth.
-    * Results on youtube: [Click here](https://youtu.be/r7kXe7jQFgI)
-    * <img src="./images/appnema1.jpg" width="200"/><img src="./images/appnema2.JPG" width="83"/>
+4. Testdriving a mobile platform: (folder named testdrive)
+    * This module documents the mobile platform I built to test out my bluetooth app.
+    * Platform is made of foamboard and uses lipo as well as alkaline batteries.
+    * Direction and speed control is achieved through bluetooth app.
+    * <img src="./images/appnema1.jpg" width="200"/><img src="./images/appnema2.JPG" width="83"/><img src="./images/testdrive1.jpg" width="200"/><img src="./images/testdrive2.jpg" width="150"/>
